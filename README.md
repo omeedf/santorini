@@ -24,9 +24,9 @@ This program allows for multiple modes of play. The user can run the program in 
 ## Running the program
 `python3 main.py argv[1] argv[2] argv[3] argv[4]`
 
-argv[1]: white player type (human, AI, or random), default = human
+argv[1]: white player type (human, heuristic, or random), default = human
 
-argv[2]: blue player type (human, AI, or random), default = human
+argv[2]: blue player type (human, heuristic, or random), default = human
 
 argv[3]: enable undo/redo (on or off), default = off
 

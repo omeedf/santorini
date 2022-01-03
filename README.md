@@ -1,5 +1,5 @@
 # Santorini
-Implementation of the game Santorini with CLI that allows for 2-player, random-play, and AI game modes
+Implementation of the game Santorini with CLI and object-oriented design patterns that allows for 2-player, random-play, and AI game modes 
 
 Santorini is an abstract strategy game (think checkers/chess) designed by Dr. Gordan Hamilton. You can find a copy of the rulebook [here](http://files.roxley.com/Santorini-Rulebook-Web-2016.08.14.pdf).
 
